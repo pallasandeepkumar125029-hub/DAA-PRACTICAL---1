@@ -1,6 +1,18 @@
-# DAA-PRACTICAL---1
-Overall Summary
-This project explains and compares five basic sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. Each algorithm was implemented and tested to understand how it works, its time complexity, and how efficient it is for different types of input data. The study shows that simple algorithms like Bubble Sort, Selection Sort, and Insertion Sort are useful for small or nearly sorted datasets, while advanced divide‑and‑conquer algorithms such as Merge Sort and Quick Sort perform much better on large datasets. By looking at their best, average, and worst‑case complexities, the project highlights why choosing the right sorting algorithm depends on the size, structure, and needs of the data.
+# DAA-PRACTICAL---2
 
-Overall Conclusion
-The analysis of Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort shows that each algorithm fits different situations. Bubble Sort and Selection Sort are easy to understand but not efficient for large datasets, so they are mainly good for learning purposes. Insertion Sort works well for small or nearly sorted data. Merge Sort is stable and consistently gives 𝑂(𝑛log𝑛) performance, making it reliable for bigger datasets. Quick Sort is fast on average and widely used because of its speed and low memory use. Knowing the strengths, weaknesses, and time complexities of these algorithms helps in choosing the right sorting method based on the dataset’s size and characteristics.
+ SUMMARY:
+Linear Search:
+Checks each element one by one until the target is found or the list ends.
+Works on both sorted and unsorted lists.
+
+Binary Search:
+Requires the list to be sorted.
+Divides the list into halves and compares the target with the middle element until found.
+Much faster than linear search for large lists.
+
+CONCLUSION : 
+Linear Search is simple and flexible but slower for big lists.
+Binary Search is faster (𝑂(log𝑛)) but only works on sorted lists.
+
+Both codes help understand the trade‑off between simplicity (Linear Search) and efficiency (Binary Search).
+Measuring execution time shows how algorithm choice affects performance.
