@@ -13,4 +13,4 @@ Prim's Algorithm is a greedy algorithm that finds a Minimum Spanning Tree (MST) 
 
 ## Files
 
-- [`prims.py`](file:///c:/Users/Sandeep%20Kumar/OneDrive/Desktop/DAA_lab/practical_9/prims.py): Python implementation of Prim's Algorithm using an adjacency matrix representation.
+- [`prims.py`](file:///c:/Users/Sandeep%20Kumar/OneDrive/Desktop/DAA_lab/practical_09/prims.py): Python implementation of Prim's Algorithm using an adjacency matrix representation.
